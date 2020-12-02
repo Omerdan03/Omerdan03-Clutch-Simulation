@@ -2,6 +2,7 @@
  
 Here's an image of a drag racer in action:
 
-! [Drag Racing](Screen shots/simulator_screen.png)
 
-Move along.
+<img src="shots/simulator_screen.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
