@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: c854f47a3cb2de9499b3bf1ddbf199a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Car_body
+  - first:
+      213: 21300002
+    second: Wheel_Rear
+  - first:
+      213: 21300004
+    second: Wheel_Front
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Car_body
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 925
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152.5, y: 122.5}
+        - {x: 152.5, y: 72.5}
+        - {x: 150.5, y: 122.5}
+        - {x: -372.5, y: 122.5}
+        - {x: -372.5, y: 65.5}
+        - {x: -371.5, y: 63.5}
+        - {x: -373.5, y: 63.5}
+        - {x: -373.5, y: 122.5}
+        - {x: -456.5, y: 122.5}
+        - {x: -462.5, y: 104.5}
+        - {x: -462.5, y: -122.5}
+        - {x: 462.5, y: -122.5}
+        - {x: 462.5, y: 122.5}
+      physicsShape:
+      - - {x: -251.5, y: 122.5}
+        - {x: -461.5, y: 64.5}
+        - {x: -461.5, y: -78.5}
+        - {x: -447.5, y: -111.5}
+        - {x: -220.5, y: -121.5}
+        - {x: 439.5, y: -121.5}
+        - {x: 462.5, y: -111.5}
+        - {x: 462.5, y: 15.5}
+        - {x: 170.5, y: 122.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca7a2bcc3c6af84180332339d062fdf
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheel_Rear
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 32
+        width: 143
+        height: 144
+      alignment: 9
+      pivot: {x: 0.49728447, y: 0.5087522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: 72}
+        - {x: -71.5, y: 65}
+        - {x: -71.5, y: -59}
+        - {x: -67.5, y: -72}
+        - {x: 49.5, y: -72}
+        - {x: 71.5, y: -59}
+        - {x: 71.5, y: 72}
+      physicsShape:
+      - - {x: -67.5, y: 72}
+        - {x: -71.5, y: 54}
+        - {x: -71.5, y: -59}
+        - {x: -51.5, y: -71}
+        - {x: 30.5, y: -71}
+        - {x: 70.5, y: -60}
+        - {x: 70.5, y: 50}
+        - {x: 24.5, y: 72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538563d396060d45a6c1916961f5c16
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheel_Front
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 32
+        width: 141
+        height: 144
+      alignment: 9
+      pivot: {x: 0.50365734, y: 0.5095489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 72}
+        - {x: 40.5, y: 63}
+        - {x: 41.5, y: 63}
+        - {x: 40.5, y: 72}
+        - {x: -70.5, y: 72}
+        - {x: -70.5, y: -72}
+        - {x: 61.5, y: -72}
+        - {x: 70.5, y: -57}
+        - {x: 70.5, y: 71}
+        - {x: 66.5, y: 72}
+      physicsShape:
+      - - {x: 39.5, y: 72}
+        - {x: -28.5, y: 72}
+        - {x: -70.5, y: 57}
+        - {x: -70.5, y: -40}
+        - {x: -57.5, y: -71}
+        - {x: 43.5, y: -71}
+        - {x: 70.5, y: -30}
+        - {x: 70.5, y: 35}
+        - {x: 62.5, y: 47}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ebdd852fad8e04c900cb60b11fceab
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 51de625063b09714bb3c4d33288a631a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
